@@ -1,3 +1,4 @@
+
 aiofiles
 aiohttp
 asyncio
@@ -10,7 +11,7 @@ lyricsgenius
 motor==3.0.0
 pillow
 psutil
-py-tgcalls==0.9.7
+py-tgcalls==0.8.6
 pykeyboard
 pyrogram==1.4.16
 python-dotenv
@@ -20,7 +21,8 @@ speedtest-cli
 spotipy
 tgcrypto
 numpy
-https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
 youtube-search
 youtube-search-python
+yt-dlp
+https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
 telegraph
